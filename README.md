@@ -2,13 +2,13 @@ Hello there! 👋 👨‍💻 I specialize in MERN stack development, crafting d
 
 Skills & Technologies 💻
 
-Markup : JavaScript
-Markup : HTML & CSS
-Markup : React
-Markup : Node.js
-Markup : Express
-Markup : MongoDB
-Markup : Git & GitHub
+JavaScript
+HTML & CSS
+React
+Node.js
+Express
+MongoDB
+Git & GitHub
 
 Let's Connect 🤝
 I'm keen on collaborating on exciting new projects and exploring potential opportunities. Feel free to connect with me on LinkedIn or Twitter.
